@@ -1,0 +1,38 @@
+body {
+  background: rgba(191, 43, 43, 0.712);
+  max-width: 500px;
+  margin: auto;
+}
+
+img {
+  border-radius: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+.heading {
+  text-align: center;
+}
+
+.salga {
+  background: white;
+  color: black;
+  text-align: center;
+  box-sizing: inherit;
+  display: block;
+  border-style: solid;
+  border-color: white;
+  padding: 10px;
+  margin: 8px;
+}
+.salga:hover {
+  background: rgba(191, 43, 43, 0.712);
+  color: white;
+}
+a:active,
+a:link,
+a:visited {
+  text-decoration: none;
+  color: white;
+}
